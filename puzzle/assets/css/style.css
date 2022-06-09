@@ -14,6 +14,10 @@
   --last-box:var(--dark);
   --last-box-light:var(--light);
 }
+.disclaimer{
+    display:none !important;
+    visibility:hidden;
+}
 /* Fifteen Game Board*/
 #table {
     width: auto;
